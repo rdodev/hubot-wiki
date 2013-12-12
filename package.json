@@ -10,6 +10,9 @@
     "type": "git",
     "url": "https://github.com/rdodev/hubot-wiki.git"
   },
+  "dependencies": {
+    "request": "~2.29.0"
+  },
   "keywords": [
     "Hubot"
   ],
